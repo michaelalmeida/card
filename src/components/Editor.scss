@@ -1,0 +1,43 @@
+section.editor {
+    margin-left: 30px;
+    margin-bottom: 60px;
+    padding: 60px 0 0 ;
+    overflow: hidden;
+    width: 300px;
+
+    .react-datepicker-wrapper,
+    .react-datepicker__input-container {
+        width: 100%;
+    }
+
+    label {
+        display: block;
+        margin: 0 0 10px;
+        width: 100%;
+    }
+    
+    input,
+    textarea {
+        display: block;
+        padding: 3%;
+        width: 94%;
+        border: 0;
+        outline: none;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+
+
+        &:focus {
+            background: #ccc;
+        }
+    }
+
+    textarea {
+        height: 150px;;
+    }
+
+    .btn {
+        margin: 30px 15px 0 0;
+    }
+}
