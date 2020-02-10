@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+X is a full-time web developer who works mainly with vanilla JavaScript and with the most popular JavaScript frameworks like Angular, React, and MeteorJS. He made his first website when he was 14, and since then, has made more than 400 WordPress sites during his freelancing career. Nowadays, he designs and builds custom web applications and sites.
+
+
